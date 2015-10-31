@@ -14,7 +14,6 @@
     "babel-plugin-transform-es2015-parameters": "^6.0.14",
     "babel-plugin-transform-es2015-destructuring": "^6.0.14",
     "babel-plugin-transform-es2015-typeof-symbol": "^6.0.14",
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.0.14",
-    "babel-plugin-transform-regenerator": "^6.0.14"
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.0.14"
   }
 }
