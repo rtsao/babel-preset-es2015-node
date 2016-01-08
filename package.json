@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-es2015-node",
-  "version": "5.0.1",
+  "version": "4.0.0",
   "description": "Babel preset for all es2015 plugins needed with latest stable node.",
   "author": "Ryan Tsao <ryan.j.tsao@gmail.com>",
   "homepage": "https://babeljs.io/",
@@ -8,12 +8,12 @@
   "repository": "https://github.com/rtsao/babel-preset-es2015-node",
   "main": "index.js",
   "dependencies": {
-    "babel-plugin-transform-strict-mode": "^6.0.14",
-    "babel-plugin-transform-es2015-sticky-regex": "^6.0.14",
-    "babel-plugin-transform-es2015-unicode-regex": "^6.0.14",
-    "babel-plugin-transform-es2015-parameters": "^6.0.14",
-    "babel-plugin-transform-es2015-destructuring": "^6.0.14",
-    "babel-plugin-transform-es2015-typeof-symbol": "^6.0.14",
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.0.14"
+    "babel-plugin-transform-es2015-destructuring": "^6.4.0",
+    "babel-plugin-transform-es2015-function-name": "^6.4.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.4.0",
+    "babel-plugin-transform-es2015-parameters": "^6.4.2",
+    "babel-plugin-transform-es2015-spread": "^6.4.0",
+    "babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+    "babel-plugin-transform-es2015-unicode-regex": "^6.3.13"
   }
 }
