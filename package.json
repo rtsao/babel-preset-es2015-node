@@ -8,7 +8,7 @@
   "repository": "https://github.com/rtsao/babel-preset-es2015-node",
   "main": "index.js",
   "engines": {
-    "node": ">= 5.0.0",
+    "node": ">= 5.0.0"
   },
   "dependencies": {
     "babel-plugin-transform-es2015-destructuring": "^6.4.0",
