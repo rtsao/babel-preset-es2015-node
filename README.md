@@ -4,6 +4,10 @@
 
 ## Install
 
+#### Node 6
+```sh
+$ npm install --save-dev babel-preset-es2015-node@6
+```
 #### Node 5
 ```sh
 $ npm install --save-dev babel-preset-es2015-node@5
