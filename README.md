@@ -1,8 +1,8 @@
 # babel-preset-es2015-node
 
-> Babel preset for all es2015 plugins needed with latest stable node.
+> Babel preset for the minimum necessary `babel-preset-es2015` plugins needed for your version of node
 
-This preset determines which node version you are using via `process.version` and accordingly sets the necessary ES2015 Babel plugins.
+This preset automatically determines which version of node you are using via `process.version` and sets the minimum necessary `babel-preset-es2015` plugins accordingly.
 
 All versions of node >=4 are supported.
 
