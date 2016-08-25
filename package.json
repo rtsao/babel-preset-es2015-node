@@ -19,6 +19,6 @@
     "babel-plugin-transform-es2015-spread": "6.x",
     "babel-plugin-transform-es2015-sticky-regex": "6.x",
     "babel-plugin-transform-es2015-unicode-regex": "6.x",
-    "semver": "5.1.0"
+    "semver": "5.x"
   }
 }
